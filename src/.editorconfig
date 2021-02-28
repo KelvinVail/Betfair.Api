@@ -238,6 +238,9 @@ dotnet_diagnostic.SX1309.severity = warning
 # SA1600: Elements should be documented
 dotnet_diagnostic.SA1600.severity = none
 
+# SA1642 Constructor Summary Documentation Must Begin With Standard Text
+dotnet_diagnostic.SA1642.severity = none
+
 # SA1633: File should have header
 dotnet_diagnostic.SA1633.severity = none
 
