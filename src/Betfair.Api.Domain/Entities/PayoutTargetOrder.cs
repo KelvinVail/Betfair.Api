@@ -1,4 +1,6 @@
-﻿namespace Betfair.Api.Contracts.Orders.Models
+﻿using Betfair.Api.Domain.Values;
+
+namespace Betfair.Api.Domain.Entities
 {
     public class PayoutTargetOrder : OrderBase
     {

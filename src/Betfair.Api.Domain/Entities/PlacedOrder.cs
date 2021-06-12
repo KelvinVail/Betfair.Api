@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Betfair.Api.Contracts.Orders.Models
+namespace Betfair.Api.Domain.Entities
 {
     public class PlacedOrder
     {

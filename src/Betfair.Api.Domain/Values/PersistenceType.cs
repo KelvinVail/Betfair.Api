@@ -1,4 +1,4 @@
-namespace Betfair.Api.Contracts.Orders.Models
+namespace Betfair.Api.Domain.Values
 {
     public enum PersistenceType
     {

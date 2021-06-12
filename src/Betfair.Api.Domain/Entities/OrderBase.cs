@@ -1,6 +1,7 @@
 ﻿using System;
+using Betfair.Api.Domain.Values;
 
-namespace Betfair.Api.Contracts.Orders.Models
+namespace Betfair.Api.Domain.Entities
 {
     public abstract class OrderBase
     {
